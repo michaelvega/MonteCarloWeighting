@@ -6,7 +6,7 @@ Ensembles multiple simulations to then find the greatest returning distribution 
 
 Example of NIKKEI225 index top 10 performers simulated:
 
-<img src="./res/NIKKEI255T10-1.png" height="480" width="640">
+<img src="./res/NIKKEI225T10-1.png" height="480" width="640">
 
 Best weighting example by {ticker, percentage of investment}: 
 

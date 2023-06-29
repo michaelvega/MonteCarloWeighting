@@ -1,6 +1,6 @@
 # Monte Carlo Stock Portfolio Weighting
 
-Utilizes Monte Carlo Method to simulate future value of stocks within a portfolio, accounting for previous historical movements and covariance. Linear regresses average direction of the movements into a generalized trend (100-day window). 
+Utilizes Monte Carlo Method to simulate future value of stocks within a portfolio, accounting for previous historical movements and covariance (100-day window). Linear regresses average direction of the movements into a generalized trend. 
 
 Ensembles multiple simulations to then find the greatest returning distribution of weights for the given portfolio. 
 

@@ -6,10 +6,10 @@ Ensembles multiple simulations to then find the greatest returning distribution 
 
 Example of NIKKEI225 index top 10 performers simulated:
 
-
+<img src="./res/NIKKEI255T10-1.png" height="480" width="640">
 
 Best weighting example by {ticker, percentage of investment}: 
 
-{'4755': 0.1149, '7201': 0.0892, '7269': 0.1346, '8306': 0.1294, '8035': 0.0437, '7733': 0.0739, '6857': 0.1381, '5802': 0.0679, '4543': 0.0693, '7211': 0.1374}
+**{'4755': 0.1149, '7201': 0.0892, '7269': 0.1346, '8306': 0.1294, '8035': 0.0437, '7733': 0.0739, '6857': 0.1381, '5802': 0.0679, '4543': 0.0693, '7211': 0.1374}**
 
-Code Available here
+## [Code Available here](https://github.com/michaelvega/MonteCarloWeighting/blob/master/src/main.py)
